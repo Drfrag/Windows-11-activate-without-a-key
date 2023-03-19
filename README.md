@@ -1,4 +1,4 @@
-# Windows 11 ative sem uma chave
+# Windows 11 - ative sem uma chave
 Uma forma de ativar qualquer versão do Windows 11 usando o servidor de chaves do MsGuides.
 ## Ative o  Windows 11 usando uma chave cliente KMS gratuita
 ## Ativação Manual
@@ -7,14 +7,14 @@ Execute o aplicativo Prompt de Comando como administrador.
 Clique no botão Iniciar, procure por “cmd” e [execute-o com direitos de administrador](https://msguides.com/open-command-prompt-admin).
 
 ## Instale a chave do cliente KMS
-```
 Use o comando “slmgr /ipk kmsclientkey” para instalar uma chave de licença (kmsclientkey é a chave de ativação que corresponde à sua edição do Windows).
-
+```
 Exemplo: 
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+```
 
 A seguir está a lista de chaves de licença do Windows 11 Volume.
-
+```
 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
