@@ -30,11 +30,13 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ## Definir servidor KMS
 Use o comando “slmgr /skms kms8.msguides.com” para se conectar ao meu servidor KMS.
 slmgr /skms kms8.msguides.com
+```
 
 ## Ative seu Windows
 ```
-The last step is to activate your Windows using the command “slmgr /ato”.
+O último passo é ativar seu Windows usando o comando “slmgr /ato”.
 slmgr /ato
+```
 
 If you see the error 0x80070005, it means the server is busy. Please try the command “ato” again until you succeed.
 
