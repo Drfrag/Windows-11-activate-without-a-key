@@ -41,5 +41,5 @@ O último passo é ativar seu Windows usando o comando “slmgr /ato”.
 slmgr /ato
 ```
 
-If you see the error 0x80070005, it means the server is busy. Please try the command “ato” again until you succeed.
+Se você vir o erro 0x80070005, isso significa que o servidor está ocupado. Por favor, tente o comando “ato” novamente até ter sucesso.
 
