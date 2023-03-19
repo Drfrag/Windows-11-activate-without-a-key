@@ -28,6 +28,7 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ```
 
 ## Definir servidor KMS
+```
 Use o comando “slmgr /skms kms8.msguides.com” para se conectar ao meu servidor KMS.
 slmgr /skms kms8.msguides.com
 ```
