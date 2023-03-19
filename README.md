@@ -8,8 +8,8 @@ Clique no botão Iniciar, procure por “cmd” e [execute-o com direitos de adm
 
 ## Instale a chave do cliente KMS
 Use o comando “slmgr /ipk kmsclientkey” para instalar uma chave de licença (kmsclientkey é a chave de ativação que corresponde à sua edição do Windows).
-```
 Exemplo: 
+```
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
 ```
 
@@ -28,14 +28,16 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 ```
 
 ## Definir servidor KMS
-```
+
 Use o comando “slmgr /skms kms8.msguides.com” para se conectar ao meu servidor KMS.
+```
 slmgr /skms kms8.msguides.com
 ```
 
 ## Ative seu Windows
-```
+
 O último passo é ativar seu Windows usando o comando “slmgr /ato”.
+
 slmgr /ato
 ```
 
