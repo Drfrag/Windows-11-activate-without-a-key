@@ -37,7 +37,7 @@ slmgr /skms kms8.msguides.com
 ## Ative seu Windows
 
 O último passo é ativar seu Windows usando o comando “slmgr /ato”.
-
+```
 slmgr /ato
 ```
 
